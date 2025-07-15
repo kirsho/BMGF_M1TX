@@ -1,4 +1,7 @@
-# Template materials in Bash
+# Master BMC UE BI Transcriptomique TP1 et 2, FASTQ to Count tables
+
+
+# From Template materials in Bash
 
 Example repository to create an environment with course materials in Bash.
 
