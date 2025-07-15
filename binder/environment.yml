@@ -23,3 +23,9 @@ dependencies:
   - pip
   - pip:
     - bash_kernel
+  - sra-tools
+  - fastqc
+  - multiqc
+  - trim-galore
+  - star
+  - hisat2
