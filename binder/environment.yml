@@ -24,6 +24,7 @@ dependencies:
   - pip:
     - bash_kernel
   - sra-tools
+  - entrez-direct
   - fastqc
   - multiqc
   - trim-galore
