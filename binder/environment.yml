@@ -30,6 +30,7 @@ dependencies:
   - trim-galore
   - star
   - hisat2
+  - kallisto
   - samtools
   - htseq
   - subread
