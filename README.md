@@ -1,4 +1,4 @@
-# Master BMC UE BI Transcriptomique TP1 et 2, FASTQ to Count tables
+# Master BMC UE BI Transcriptomique TP1,2&3. FASTQ to Count tables
 
 
 # From Template materials in Bash
