@@ -23,16 +23,23 @@ dependencies:
   - pip
   - pip:
     - bash_kernel
+  - mamba  
   - sra-tools
   - entrez-direct
   - fastqc
+  - fastp
+  - fastx_toolkit
   - multiqc
   - trim-galore
+  - trimmomatic
   - star
   - hisat2
   - kallisto
+  - salmon
+  - ncurses
   - samtools
   - htseq
   - subread
+  
   
   
