@@ -29,8 +29,9 @@ dependencies:
   - trim-galore=0.6.5
   - hisat2=2.2.1
   - kallisto=0.46.2
-  - subread=2.0.6
+  - subread=2.0.3
   - samtools=1.18
+  - star=2.7.10a
 
   
   
